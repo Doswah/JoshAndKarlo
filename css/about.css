@@ -23,7 +23,7 @@ html {
 
 body {
 	
-	background-image: url("../images/blue.png");
+    background-image: url("../images/blue.png");
 	background-size: auto;
 	background-position: center;
 	color: #fff;
@@ -72,16 +72,6 @@ Theming
   display: block;
 }
 
-h1 {
-	font-family: 'Montserrat', sans-serif;
-	letter-spacing: 1px;
-	text-transform: uppercase;
-	color: #fff;
-	font-size: 40px;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-}
 
 
 
@@ -297,33 +287,29 @@ input[type="submit"]:hover {
 }
 
 
-/*----Picture-Block----*/
-.first{
-  display:block;
-  padding-top:30px;
-  padding-left:7%
-}
+/*------about us-------*/
+.aboutus {
+color:#333333;
+background-color:#ffffff;
+width:80%;
 
-.comiccon img{
-  float:left;
-  height:28%;
-  width:30%;
-  padding-left:2%;
-}
-.broncos img{
-  float:left; 
-  height:30%;
-  width:30%;
-  padding-left:2%;
-}
-.kobe img{
-  float:left;
-  height:30%;
-  width:30%;
-  padding-left:2%;
+
 }
 
 
-.highlight {
-background-color:#993D00;  /*highlights background using orange */
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
